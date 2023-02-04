@@ -63,14 +63,15 @@
 
 
 ## 📖 기술적인 이슈 및 개발 과정을 겪으며 정리한 글
-1. [채팅 읽은 사람 표시 기능 구현 및 어려웠던 점, 추후 개선해야할 사항](https://kjhoon0330.tistory.com/entry/Spring-%EC%B1%84%ED%8C%85-%EC%9D%BD%EC%9D%8C-%ED%99%95%EC%9D%B8-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
-2. [이메일 인증 서버로 Redis를 쓰게된 계기](https://leeeryboy.tistory.com/2)
-3. [동네 주변 글은 어떻게 찾을 수 있었는가](https://leeeryboy.tistory.com/3)
-4. [채팅을 웹소켓으로 구현하며..](https://kjhoon0330.tistory.com/entry/Spring-Dev-%EC%9B%B9%EC%86%8C%EC%BC%93%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
-5. [JWT Token은 어디에 저장해야할까?](https://leeeryboy.tistory.com/4)
-6. [Docker와 Github Actions를 활용한 배포 과정](https://velog.io/@beinte0419/Spring-Boot-Docker-Github-Actions를-활용한-자동-배포)
-7. [깃 머지 전략](https://kjhoon0330.tistory.com/entry/Git-Merge-%EC%A0%84%EB%9E%B5%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
-8. [N + 1 문제 해결](https://kjhoon0330.tistory.com/entry/Spring-JPA-N-1-%EB%AC%B8%EC%A0%9C%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+1. [[좌훈] 채팅 읽은 사람 표시 기능 구현 및 어려웠던 점, 추후 개선해야할 사항](https://kjhoon0330.tistory.com/entry/Spring-%EC%B1%84%ED%8C%85-%EC%9D%BD%EC%9D%8C-%ED%99%95%EC%9D%B8-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+2. [[좌훈] 깃 머지 전략](https://kjhoon0330.tistory.com/entry/Git-Merge-%EC%A0%84%EB%9E%B5%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+3. [[좌훈] N + 1 문제 해결](https://kjhoon0330.tistory.com/entry/Spring-JPA-N-1-%EB%AC%B8%EC%A0%9C%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+4. [[좌훈] 채팅을 웹소켓으로 구현하며..](https://kjhoon0330.tistory.com/entry/Spring-Dev-%EC%9B%B9%EC%86%8C%EC%BC%93%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+5. [[준형] 이메일 인증 서버로 Redis를 쓰게된 계기](https://leeeryboy.tistory.com/2)
+6. [[준형] 동네 주변 글은 어떻게 찾을 수 있었는가](https://leeeryboy.tistory.com/3)
+7. [[준형] JWT Token은 어디에 저장해야할까?](https://leeeryboy.tistory.com/4)
+8. [[민지] Docker와 Github Actions를 활용한 배포 과정](https://velog.io/@beinte0419/Spring-Boot-Docker-Github-Actions를-활용한-자동-배포)
+
 
 
 
@@ -80,6 +81,15 @@
 
 
 ## 🎉 서로에게 남기는 롤링페이퍼
+👨‍💻 좌훈이에게
+```
+새벽에도 멈추지 않는 pr로 항상 나를 놀라게 했던 새벽좌 좌훈 오빠ㅋㅋㅋ 
+프로젝트 하면서 필요한 부분을 잘 캐치해서 팀원들에게 전달해줘서 항상 고마웠어.
+기회가 된다면 다같이 계속 네트워킹하자ㅠㅠ
+뒤에서 묵묵히 팀에 필요한게 무엇인지 생각하고 손수 만들어 제공하는 츤데레 좌훈이형
+코드도 잘쓰고 블로그도 잘쓰는 형이랑 같이 플젝하면서 많이 배웠고 다음 학기에 자주 보자!
+```
+
 🧑‍💻 준형이에게
 ```
 우리팀 막내이면서 팀장을 맡아준 준형이ㅋㅋㅋ 어려운거 뚝딱뚝딱 다 잘해줘서 고맙고 든든했당.
@@ -95,12 +105,4 @@
 갓기업 신입사원 축하하고 같은 팀으로 일할 수 있어서 너무 좋았다ㅠㅠ
 경험삼아 지원한 대기업 그냥 가볍게 뚫어버린,, 그저 GOAT
 회사 다니면서 합숙도 하느라고 시간 내기 어려웠을텐데 그동안 작업하느라 너무 고생했어!!
-```
-👨‍💻 좌훈이에게
-```
-새벽에도 멈추지 않는 pr로 항상 나를 놀라게 했던 새벽좌 좌훈 오빠ㅋㅋㅋ 
-프로젝트 하면서 필요한 부분을 잘 캐치해서 팀원들에게 전달해줘서 항상 고마웠어.
-기회가 된다면 다같이 계속 네트워킹하자ㅠㅠ
-뒤에서 묵묵히 팀에 필요한게 무엇인지 생각하고 손수 만들어 제공하는 츤데레 좌훈이형
-코드도 잘쓰고 블로그도 잘쓰는 형이랑 같이 플젝하면서 많이 배웠고 다음 학기에 자주 보자!
 ```
