@@ -64,13 +64,14 @@
 
 ## 📖 기술적인 이슈 및 개발 과정을 겪으며 정리한 글
 1. [[좌훈] 채팅 읽은 사람 표시 기능 구현 및 어려웠던 점, 추후 개선해야할 사항](https://kjhoon0330.tistory.com/entry/Spring-%EC%B1%84%ED%8C%85-%EC%9D%BD%EC%9D%8C-%ED%99%95%EC%9D%B8-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
-2. [[좌훈] 깃 머지 전략](https://kjhoon0330.tistory.com/entry/Git-Merge-%EC%A0%84%EB%9E%B5%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+2. [[좌훈] 소셜 로그인에 전략패턴을 적용하기](https://kjhoon0330.tistory.com/entry/Spring-Project-%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%97%90-%EC%A0%84%EB%9E%B5-%ED%8C%A8%ED%84%B4%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 3. [[좌훈] N + 1 문제 해결](https://kjhoon0330.tistory.com/entry/Spring-JPA-N-1-%EB%AC%B8%EC%A0%9C%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 4. [[좌훈] 채팅을 웹소켓으로 구현하며..](https://kjhoon0330.tistory.com/entry/Spring-Dev-%EC%9B%B9%EC%86%8C%EC%BC%93%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
-5. [[준형] 이메일 인증 서버로 Redis를 쓰게된 계기](https://leeeryboy.tistory.com/2)
-6. [[준형] 동네 주변 글은 어떻게 찾을 수 있었는가](https://leeeryboy.tistory.com/3)
-7. [[준형] JWT Token은 어디에 저장해야할까?](https://leeeryboy.tistory.com/4)
-8. [[민지] Docker와 Github Actions를 활용한 배포 과정](https://velog.io/@beinte0419/Spring-Boot-Docker-Github-Actions를-활용한-자동-배포)
+5. [[좌훈] 깃 머지 전략](https://kjhoon0330.tistory.com/entry/Git-Merge-%EC%A0%84%EB%9E%B5%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+6. [[준형] 이메일 인증 서버로 Redis를 쓰게된 계기](https://leeeryboy.tistory.com/2)
+7. [[준형] 동네 주변 글은 어떻게 찾을 수 있었는가](https://leeeryboy.tistory.com/3)
+8. [[준형] JWT Token은 어디에 저장해야할까?](https://leeeryboy.tistory.com/4)
+9. [[민지] Docker와 Github Actions를 활용한 배포 과정](https://velog.io/@beinte0419/Spring-Boot-Docker-Github-Actions를-활용한-자동-배포)
 
 
 
